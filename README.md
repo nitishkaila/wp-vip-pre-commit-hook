@@ -10,4 +10,4 @@ By default `WordPressVIPMinimum` coding standard will run. If you wish to run yo
 
 Run following command to install the composer package
 
-`composer nitishkaila/wp-vip-pre-commit-hook --dev`
+`composer require nitishkaila/wp-vip-pre-commit-hook --dev`
