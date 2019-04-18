@@ -1,0 +1,1 @@
+# wp-vip-pre-commit-hook
