@@ -1,7 +1,7 @@
 {
     "name": "nitishkaila/wp-vip-pre-commit-hook",
     "description": "Pre-commit hook for WordPress projects to run WordPress VIP Minimum coding standard",
-    "type": "composer-script",
+    "type": "composer-plugin",
     "license": "GPL-3.0",
     "authors": [
         {
